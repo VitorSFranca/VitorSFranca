@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi there! 👋
+I'm **Vitor França**, I'm from Brazil 🇧🇷, currently based in Germany 🇩🇪.
 
-<!--
-**VitorSFranca/VitorSFranca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Currently working at** [Logicline GmbH](https://www.logicline.de/) as a Frontend Developer.
 
-Here are some ideas to get you started:
+🌟 **Tech Stack & Interests**:
+- 🔥 JavaScript, TypeScript
+- ⚛️ React, Angular
+- 🎨 CSS, SASS
+- 🧩 Node.js
+- 🐳 Docker
+- 🤖 AI & Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 **My GitHub Stats**:
+
+![My stats](https://github-readme-stats.vercel.app/api?username=vitorsfranca&show_icons=true&theme=radical)
+
+🌐 **Most Used Languages**:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsfranca)](https://github.com/vitorsfranca/github-readme-stats)
+
+🏆 **Achievements**:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vitorsfranca&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+📫 **How to reach me**:
+- 🌐 [LinkedIn](https://www.linkedin.com/in/vitor-fran%C3%A7a-222198126/)
+- 🐦 [Twitter](https://x.com/VtorFranca)
+- 📝 [Medium](https://medium.com/@vitor-franca)
+- 🛠️ [Dev.to](https://dev.to/vitorsfranca)
+
+Thanks for stopping by! 😄
